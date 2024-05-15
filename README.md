@@ -5,9 +5,17 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 15.05.2024 | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 15.05.2024 | 0.0.2 | Über das Projekt informiert.|
+| 15.05.2024 | 0.0.3   | Anforderungen, Mockup und Planung erstellt. |
+|       | 0.0.4   |                                                              |
+|       | 0.0.5   |                                                              |
+|       | 0.0.6   |                                                              |
+|       | 0.0.7   |                                                              |
+|       | 0.0.8   |                                                              |
+|       | 0.0.9   |                                                              |
+|       | 0.1.0   |                                                              |
+
 
 ## 1 Informieren
 
