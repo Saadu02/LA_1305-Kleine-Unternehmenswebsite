@@ -39,7 +39,7 @@ In diesem Projekt geht es darum, das ich eine fikitive Unternehmenswebsite erste
 | 6  | muss | Funktionalität | Ich kann für dieses Website Feedback schreiben und senden. |
 | 7  | muss | Funktionalität | Ich kann für dieses Website ein Feedback Löschen. |
 | 8  | muss | Randbedingung | Für diese entwicklung soll in C# geschrieben werden. |
-| ...  |                 |      |                                    |
+| 9  | muss | Funktionalität | Wenn ich etwas falsches eingebe beim Email, soll angezeigt werden, was ich wirklich eingeben soll. |
 | ...  |                 |      |                                    |
 | ...  |                 |      |                                    |
 
@@ -62,8 +62,18 @@ In diesem Projekt geht es darum, das ich eine fikitive Unternehmenswebsite erste
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 22.05.2024 | Sathana | Website erstellen | 45min |
+| 2.A  | 29.05.2024 | Sathana | Design | 3 x 45min |
+| 3.A  | 29.05.2024 | Sathana | Information der Unternehmen | 2 x 45min|
+| 4.A  | 22.05.2024 | Sathana | Feedback erstellen | 2 x 45min |
+| 5.A  | 29.05.2024 | Sathana | Sterne bewertung | 45min|
+| 6.A  | 22.05.2024 | Sathana | Feedback schreiben & senden (DB) | 2 x 45min |
+| 7.A  | 29.05.2024 | Sathana | Feedback Löschen | 45min |
+| 9.A  | 22.05.2024 | Sathana | Fehlermeldung-Box | 45 min|
+| ...  | 22.05.2024 | Sathana |              |               |
+| ...  | 22.05.2024 | Sathana |              |               |
+| ...  | 22.05.2024 | Sathana |              |               |
+
 
 Total: 
 
@@ -94,16 +104,3 @@ Total:
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
