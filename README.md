@@ -40,7 +40,7 @@ In diesem Projekt geht es darum, das ich eine fikitive Unternehmenswebsite erste
 | 7  | muss | Funktionalität | Ich kann für dieses Website ein Feedback Löschen. |
 | 8  | muss | Randbedingung | Für diese entwicklung soll in C# geschrieben werden. |
 | 9  | muss | Funktionalität | Wenn ich etwas falsches eingebe beim Email, soll angezeigt werden, was ich wirklich eingeben soll. |
-| ...  |                 |      |                                    |
+| 10  | muss | Funktionalität | Es sollen zwei Buttons geben, um Feedback-seite oder Startseite zu gelangen. |
 | ...  |                 |      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -63,14 +63,14 @@ In diesem Projekt geht es darum, das ich eine fikitive Unternehmenswebsite erste
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 22.05.2024 | Sathana | Website erstellen | 45min |
-| 2.A  | 29.05.2024 | Sathana | Design | 3 x 45min |
-| 3.A  | 29.05.2024 | Sathana | Information der Unternehmen | 2 x 45min|
+| 2.A  | 05.06.2024 | Sathana | Design | 3 x 45min |
+| 3.A  | 05.06.2024 | Sathana | Information der Unternehmen | 2 x 45min|
 | 4.A  | 22.05.2024 | Sathana | Feedback erstellen | 2 x 45min |
 | 5.A  | 29.05.2024 | Sathana | Sterne bewertung | 45min|
 | 6.A  | 22.05.2024 | Sathana | Feedback schreiben & senden (DB) | 2 x 45min |
 | 7.A  | 29.05.2024 | Sathana | Feedback Löschen | 45min |
-| 9.A  | 22.05.2024 | Sathana | Fehlermeldung-Box | 45 min|
-| ...  | 22.05.2024 | Sathana |              |               |
+| 9.A  | 29.05.2024 | Sathana | Fehlermeldung-Box | 45 min|
+| 10.A | 29.05.2024 | Sathana | Buttons | 45 min|
 | ...  | 22.05.2024 | Sathana |              |               |
 | ...  | 22.05.2024 | Sathana |              |               |
 
@@ -89,8 +89,19 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 22.05.2024 | Sathana | 45min | 60min |
+| 2.A  | 05.06.2024 | Sathana | 3 x 45min | 3 x 45min |
+| 3.A  | 05.06.2024 | Sathana | 2 x 45min | 2 x 45min |
+| 4.A  | 22.05.2024 | Sathana | 2 x 45min | 60min |
+| 5.A  | 29.05.2024 | Sathana | 45min | - |
+| 6.A  | 22.05.2024 | Sathana | 2 x 45min | 2 x 45min |
+| 7.A  | 29.05.2024 | Sathana | 45min | 2 x 45min |
+| 9.A  | 29.05.2024 | Sathana | 45min | 30min |
+| 10.A  | 22.05.2024 | Sathana | 45min | 55min |
+| ...  | 22.05.2024 | Sathana |               |                   |
+| ...  | 22.05.2024 | Sathana |               |                   |
+| ...  | 22.05.2024 | Sathana |               |                   |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -101,6 +112,17 @@ Total:
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
