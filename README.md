@@ -34,6 +34,7 @@ In diesem Projekt möchte ich eine fiktive Unternehmenswebsite erstellen, auf de
 | 8  | muss | Randbedingung | Für diese Entwicklung soll in C# programmiert werden. |
 | 9  | muss | Funktionalität | Wenn ich etwas Falsches beim E-Mail/Name eingebe oder etwas nicht ausgefüllt habe, soll angezeigt werden, was ich wirklich eingeben soll. |
 | 10  | muss | Funktionalität | Es sollen zwei Buttons vorhanden sein, um zur Feedback-Seite oder zur Startseite zu gelangen. |
+| 11  | kann | Funktionalität | Die Website muss auch in einer mobilen Version nutzbar sein. |
 
 
 ### 1.3 Testfälle
@@ -80,11 +81,12 @@ Bedanken-Seite:
 | 7.A  | 29.05.2024 | Sathana | Feedback Löschen | 45min |
 | 9.A  | 29.05.2024 | Sathana | Fehlermeldung-Box | 45 min|
 | 10.A | 29.05.2024 | Sathana | Buttons | 45 min|
+| 11.A | 05.06.2024 | Sathana | Mobile-Version | 45 min|
 
 
 ## 3 Entscheiden
 
-Ich habe mich entschieden, Visual Studio Code zu nutzen, da es eine ausgezeichnete Anwendung zur Erstellung von Websites bietet. Zudem habe ich mich für die Programmiersprachen C# und JavaScript entschieden. Als Datenbank habe ich MongoDB ausgewählt.
+Ich habe mich entschieden, Visual Studio Code zu nutzen, da es eine ausgezeichnete Anwendung zur Erstellung von Websites bietet. Zudem habe ich mich für die Programmiersprachen C# und JavaScript entschieden. Als Datenbank habe ich MongoDB ausgewählt. Ich habe auch geplant meine Website auch auf Mobile-Version nutzbar zu machen.
 
 ## 4 Realisieren
 
@@ -99,6 +101,7 @@ Ich habe mich entschieden, Visual Studio Code zu nutzen, da es eine ausgezeichne
 | 7.A  | 29.05.2024 | Sathana | 45min | 2 x 45min |
 | 9.A  | 29.05.2024 | Sathana | 45min | 2 x 45min |
 | 10.A | 05.06.2024 | Sathana | 45min | 55min |
+| 11.A | 05.06.2024 | Sathana | 45min | 25min |
 
 
 ## 5 Kontrollieren
