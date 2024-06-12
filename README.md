@@ -1,16 +1,14 @@
-# LA_1305-Kleine-Unternehmenswebsite
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+# LA_1305-Fiktives-Unternehmen
 
-✍️ Kleine Unternehmenswebsite von Sathana Suganthasri
+fiktives Unternehmen von Sathana Suganthasri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 15.05.2024 | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-| 15.05.2024 | 0.0.2 | Über das Projekt informiert.|
-| 15.05.2024 | 0.0.3   | Anforderungen, Skizze und Planung erstellt. |
-| 29.05.2024 | 0.0.4   | Testfälle erstellt. |
-| 05.06 2024 | 0.0.5   | Das Projekt fertig programmiert. |
-| 12.06.2024 | 0.0.6   | Dokumentation fertig erstellt. |
+| 15.05.2024 | 0.0.1 | Über das Projekt informiert.|
+| 15.05.2024 | 0.0.2   | Anforderungen, Skizze und Planung erstellt. |
+| 29.05.2024 | 0.0.3   | Testfälle erstellt. |
+| 05.06 2024 | 0.0.4   | Das Projekt fertig programmiert. |
+| 12.06.2024 | 0.0.5   | Dokumentation fertig erstellt. |
 
 
 
